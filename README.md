@@ -61,5 +61,5 @@ When I'm not designing, you’ll find me enjoying iced coffee, watching movies, 
 
 ---
 
-> _“Good design isn’t just seen — it’s felt. I design to make people feel understood.”_  
+> _“Good design isn’t just seen, it’s felt. I design to make people feel understood.”_  
 > — **Catherine Lunato**
